@@ -43,5 +43,5 @@ treinar o Chatbot:
 José Henrique Lima Gomes da Silva
 
 ## Licença
-
+MIT License
 
